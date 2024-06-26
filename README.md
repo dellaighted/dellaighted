@@ -24,4 +24,4 @@ Currently learning: `HTML` `CSS` `JavaScript`
 I'm interested in software engineering, web development, and UI/UX.
 
 ### Contact
-For a quick response, please DM me on [LinkedIn](https://www.linkedin.com/in/della-maret/).
+For a quick response, please DM me on [LinkedIn](https://www.linkedin.com/in/m-della/).
