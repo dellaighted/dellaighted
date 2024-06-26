@@ -1,4 +1,4 @@
-## Hello! I'm Della 👋
+## Delighted to meet you! I'm Della 👋
 
 ### About Me
 I'm a 23-year-old developer based in the USA, and I'm passionate about crafting digital experiences.
