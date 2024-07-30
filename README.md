@@ -1,7 +1,7 @@
 ## Delighted to meet you! I'm Della 👋
 
 ### About Me
-I'm a 23-year-old developer based in the USA, and I'm passionate about crafting digital experiences.
+I'm a 23-year-old developer based in the USA. I like learning a lot of different things and using my technical knowledge to build small projects.  
 
 ### Recent Projects
 I have been learning HTML, CSS, and JavaScript through [The Odin Project (TOP) curriculum](https://github.com/TheOdinProject/curriculum) which is focused on full stack development and fostering the programmer mindset, sharpening problem-solving and research skills, building a project from scratch and encouraging thoughful discussions in the TOP community.
@@ -9,7 +9,6 @@ I have been learning HTML, CSS, and JavaScript through [The Odin Project (TOP) c
 ### Some recent projects I've worked on
 - [Rock, Paper, Scissors](https://dellaighted.github.io/rock-paper-scissors/): more HTML and CSS, but also JavaScript and DOM manipulation basics
 - [Landing Page](https://dellaighted.github.io/landing-page/): put together the HTML and CSS I learned to create a site
-- [Odin Recipes](https://dellaighted.github.io/odin-recipes/): first site I made when starting to learn basic HTML/CSS
 
 ### Currently Working On
 Courses at university and enhancing my programming skills.
