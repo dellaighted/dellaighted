@@ -7,8 +7,9 @@ I'm a 23-year-old developer based in the USA. I like learning a lot of different
 I have been learning HTML, CSS, and JavaScript through [The Odin Project (TOP) curriculum](https://github.com/TheOdinProject/curriculum) which is focused on full stack development and fostering the programmer mindset, sharpening problem-solving and research skills, building a project from scratch and encouraging thoughful discussions in the TOP community.
 
 ### Some recent projects I've worked on
-- [Rock, Paper, Scissors](https://dellaighted.github.io/rock-paper-scissors/): more HTML and CSS, but also JavaScript and DOM manipulation basics
-- [Landing Page](https://dellaighted.github.io/landing-page/): put together the HTML and CSS I learned to create a site
+- [Etch-A-Sketch](https://dellaighted.github.io/etch-a-sketch/): digital version of classic Etch-A-Sketch toy using Javascript
+- [Rock, Paper, Scissors](https://dellaighted.github.io/rock-paper-scissors/): classic Rock, Paper, Scissors made with HTML/CSS and a little JavaScript and DOM manipulation basics
+- [Landing Page](https://dellaighted.github.io/landing-page/): put together the HTML and CSS basics I learned to create a site
 
 ### Currently Working On
 Courses at university and enhancing my programming skills.
