@@ -1,7 +1,8 @@
 ## Delighted to meet you! I'm Della 👋
+![](https://komarev.com/ghpvc/?username=dellaighted&color=brightgreen)
 
 ### About Me
-I'm a 23-year-old developer based in the USA. I like learning a lot of different things and using my technical knowledge to build small projects.  
+I'm currently a university student based in the US. I like learning a lot of different things and using my technical knowledge to build small projects.  
 
 ### Recent Projects
 I have been learning HTML, CSS, and JavaScript through [The Odin Project (TOP) curriculum](https://github.com/TheOdinProject/curriculum) which is focused on full stack development and fostering the programmer mindset, sharpening problem-solving and research skills, building a project from scratch and encouraging thoughful discussions in the TOP community.
