@@ -1,5 +1,4 @@
-## Delighted to meet you! I'm Della 👋
-![](https://komarev.com/ghpvc/?username=dellaighted&color=brightgreen)
+## Delighted to meet you! I'm Della <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 ### About Me
 I'm currently a university student based in the US. I like learning a lot of different things and using my technical knowledge to build small projects.  
@@ -26,3 +25,5 @@ I'm interested in software engineering, web development, and UI/UX.
 
 ### Contact
 For a quick response, please DM me on [LinkedIn](https://www.linkedin.com/in/m-della/).
+
+![](https://komarev.com/ghpvc/?username=dellaighted&color=brightgreen)
